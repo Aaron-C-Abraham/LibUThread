@@ -411,7 +411,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ## Author
-
+Aaron C. Abraham - [aaronabraham06@gmail.com](mailto:aaronabraham06@gmail.com)
 Created as an educational project to learn operating systems concepts including:
 - Context switching mechanics
 - CPU scheduling algorithms
